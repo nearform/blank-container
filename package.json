@@ -1,0 +1,29 @@
+{
+  "name": "blank-container",
+  "description": "nscale standard blank container",
+  "keywords": [
+    "nearForm",
+    "nscale",
+    "deployer",
+    "container"
+  ],
+  "version": "0.0.1",
+  "license": "Artistic License 2.0",
+  "author": "Peter Elger (http://nearform.com/)",
+  "contributors": [
+    "Peter Elger <elger.peter@gmail.com> (http://peterelger.com/)"
+  ],
+  "engines": {
+    "node": "*"
+  },
+  "main": "lib/container",
+  "dependencies": {
+    "bunyan": "~1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nearform/blank-container.git"
+  },
+  "devDependencies": {
+  }
+}
